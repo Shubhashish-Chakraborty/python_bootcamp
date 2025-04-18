@@ -1,3 +1,1 @@
-a , b , c = "Helllo my name is prateek" , 40 , 60
-
-print(a , b , c)
+print("from next lecture(4) We are gonna continue from operator precedence")
