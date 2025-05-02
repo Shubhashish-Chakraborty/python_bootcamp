@@ -1,1 +1,1 @@
-print("from next lecture(4) We are gonna continue from operator precedence")
+print("Starting with string Functions from lecture 9")
