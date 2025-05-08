@@ -1,1 +1,1 @@
-print("Starting with string Functions from lecture 9")
+# continue from escape sequence characters from lecture 10
